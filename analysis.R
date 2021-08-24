@@ -1,9 +1,3 @@
-##########################################
-# Name: Ayesha Kumbhare                  #
-# ID: 604936823                          #
-# Homework 9 .R file                     #
-##########################################
-
 X = read.csv("cleaned_data.csv")
 
 # cleaned_data.csv is a file of 400 observations and 45 variables from the
